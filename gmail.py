@@ -6,21 +6,21 @@ def SendEmail():
     mail_body = {}
 
     mail_from = {
-        "name": "Hassam",
-        "email": "MS_0gIZpS@trial-zr6ke4nozmelon12.mlsender.net",
+        "name": "",
+        "email": "",
     }
 
     recipients = [
         {
-            "name": "normanscott",
-            "email": "normanscott1211@gmail.com",
+            "name": "Ivan Biletskyi",
+            "email": "biletskyiivan423@gmail.com",
         }
     ]
 
     reply_to = [
         {
-            "name": "normanscott",
-            "email": "normanscott1211@gmail.com",
+            "name": "Vanya",
+            "email": "biletskyiivan423@gmail.com",
         }
     ]
 
