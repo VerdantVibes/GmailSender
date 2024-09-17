@@ -22,7 +22,7 @@ def SendEmail():
 
     reply_to = [
         {
-            "name": "Vanya",
+            "name": "",
             "email": "example@gmail.com",
         }
     ]
